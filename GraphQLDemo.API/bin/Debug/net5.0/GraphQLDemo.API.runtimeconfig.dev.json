@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Bonface\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Bonface\\.nuget\\packages"
+    ]
+  }
+}
